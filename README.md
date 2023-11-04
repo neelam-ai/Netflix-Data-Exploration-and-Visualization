@@ -1,5 +1,6 @@
 # Netflix - Data Exploration and Visualisation
 Analyze the data and generate insights that could help Netflix ijn deciding which type of shows/movies to produce and how they can grow the business in different countries
+
 Section 1:Defining Problem Statement and Analysing basic metrics
 
 Section 2: Observations on the shape of data, data types of all the attributes, conversion of categorical attributes to 
